@@ -16,7 +16,6 @@ int hammingWeight(uint32_t n) {
     }
 
     return countBits;
-    
 }
 
 int main()
